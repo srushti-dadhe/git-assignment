@@ -1,1 +1,2 @@
 This is my first GitHub assignment
+I have successfully learned Git and GitHub.
